@@ -1,0 +1,24 @@
+{
+    "cards": [
+    {
+    "q": "Prince Ashitaka is from? ",
+    "a": "Princess Mononoke"        
+    },
+    {
+    "q": "Spike Spiegel is from?",
+    "a": "Cowboy Bebop"
+    },
+    {
+    "q": "The Elric brothers are from?",
+    "a": "Full Metal Alchemist"
+    },
+    {
+    "q": "Van and Folken Fanel are brothers from?",
+    "a": "Escaflowne"
+    },
+    {
+    "q": "Motoko Kusanagi is from?",
+    "a": "Ghost in the Shell"
+    }
+    ]
+}

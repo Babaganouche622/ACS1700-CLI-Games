@@ -1,0 +1,56 @@
+{
+    "cards": [
+    {
+    "q": "What allegiance is Human",
+    "a": "Alliance"        
+    },
+    {
+    "q": "What allegiance is Dwarf",
+    "a": "Alliance"
+    },
+    {
+    "q": "What allegiance is Night Elf",
+    "a": "Alliance"
+    },
+    {
+    "q": "What allegiance is Gnome",
+    "a": "Alliance"
+    },
+    {
+    "q": "What allegiance is Draenei",
+    "a": "Alliance"
+    },
+    {
+    "q": "What allegiance is Worgen",
+    "a": "Alliance"        
+     },
+    {
+    "q": "What allegiance is Pandaren",
+    "a": "Both"
+     },
+     {
+     "q": "What allegiance is Orc",
+     "a": "Horde"        
+     },
+     {
+     "q": "What allegiance is Undead",
+     "a": "Horde"
+     },
+     {
+     "q": "What allegiance is Tauren",
+     "a": "Horde"
+     },
+     {
+     "q": "What allegiance is Troll",
+     "a": "Horde"
+     },
+     {
+     "q": "What allegiance is Blood Elf",
+     "a": "Horde"
+     },
+     {
+    "q": "What allegiance is Goblin",
+    "a": "Horde"        
+     }
+    ]
+}
